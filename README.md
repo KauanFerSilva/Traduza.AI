@@ -1,2 +1,2 @@
 # Traduza.AI
-Projeto de cunho educacional 
+Projeto de cunho educacional com o foco em ser um aplicativo de tradutor.
